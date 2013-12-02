@@ -1,0 +1,4 @@
+name: Sepeco demo 1
+markdown: redcarpet
+pygments: true
+baseurl: /sepeco.dev
