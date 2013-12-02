@@ -101,8 +101,8 @@
 
 
 .home {
-//  background: url("/img/body-bg7.png");
-  @include background(image-url("/img/body-bg7.png"),linear-gradient(top left, #b8c7e0, #eaeef4));
+//  background: url("img/body-bg7.png");
+  @include background(image-url("img/body-bg7.png"),linear-gradient(top left, #b8c7e0, #eaeef4));
   border-top: solid 3px $primary-color-light;
   padding: 5% 0;
 
