@@ -7681,11 +7681,11 @@ td.visible-print {
 
 /* line 103, ../_sass/main.scss */
 .home {
-  background: url(/img/body-bg7.png), -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0%, #b8c7e0), color-stop(100%, #eaeef4));
-  background: url(/img/body-bg7.png), -webkit-linear-gradient(top left, #b8c7e0, #eaeef4);
-  background: url(/img/body-bg7.png), -moz-linear-gradient(top left, #b8c7e0, #eaeef4);
-  background: url(/img/body-bg7.png), -o-linear-gradient(top left, #b8c7e0, #eaeef4);
-  background: url(/img/body-bg7.png), linear-gradient(top left, #b8c7e0, #eaeef4);
+  background: url(/sepecodev/img/body-bg7.png), -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0%, #b8c7e0), color-stop(100%, #eaeef4));
+  background: url(/sepecodev/img/body-bg7.png), -webkit-linear-gradient(top left, #b8c7e0, #eaeef4);
+  background: url(/sepecodev/img/body-bg7.png), -moz-linear-gradient(top left, #b8c7e0, #eaeef4);
+  background: url(/sepecodev/img/body-bg7.png), -o-linear-gradient(top left, #b8c7e0, #eaeef4);
+  background: url(/sepecodev/img/body-bg7.png), linear-gradient(top left, #b8c7e0, #eaeef4);
   border-top: solid 3px #3e69ad;
   padding: 5% 0;
 }
